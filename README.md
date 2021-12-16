@@ -1,6 +1,14 @@
 # Coleccion-de-Articulos-y-notas
+
+----
+
+## On this page
+{:.no_toc}
+
 - TOC
 {:toc}
+
+----
 
 
 ## Tabla de Contenidos
