@@ -31,6 +31,8 @@ Usar el siguiente template:
 ```
 www.link.com
 
+Para actualizar la Tabla de contenidos: https://ecotrust-canada.github.io/markdown-toc/
+
 Descripción
 
 ## Node.js General
