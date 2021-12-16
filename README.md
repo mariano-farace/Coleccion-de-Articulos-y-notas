@@ -19,19 +19,19 @@
       - [Nivel 3](#nivel-3)
 
 
-<hr style="border:0.5px solid gray"> </hr>
+<hr style="border:0,1px solid gray"> </hr>
 
 ## Proposito
 
 ## Instrucciones para añadir una nota
 Usar el siguiente template:
 
-```diff
-+ Titulo
+```
+**Titulo**
 Descripción (si es necesario)
 
 ```
-https://jasonwatmore.com/post/2020/09/17/sequelize-mysql-create-database-if-it-doesnt-exist
+https://somelink.com
 
 ***
 Para actualizar la Tabla de contenidos: https://ecotrust-canada.github.io/markdown-toc/
