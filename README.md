@@ -6,9 +6,9 @@
 - 
 - [Node.js Genreal](#nodejs-general)
 - [Express](#express)
-- [MySQL & Sequelize](mysql-&-sequelize)
-- [Mongo & Mongoose](mongo-&-mongoose)
-- [Git & GitHub](git-&-gitHub)
+- [MySQL y Sequelize](mysql-y-sequelize)
+- [Mongo y Mongoose](mongo-y-mongoose)
+- [Git y GitHub](git-y-github)
 - JavaScript
    - Sub item 1
    - Sub item 2
@@ -17,12 +17,33 @@
 
 
 
+sadfsdf
+
+
+
+
+
+sadf
+
+sdfsdf
+
+
+
+
+
+
+-
+
+
+
+
+-
 ## Node.js General
 
 ## Express
 
-## MySQL & Sequelize
+## MySQL y Sequelize
 
-## Mongo & Mongoose
+## Mongo y Mongoose
 
-## Git & GitHub
+## Git y GitHub
