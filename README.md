@@ -28,12 +28,13 @@ Usar el siguiente template:
 
 ```diff
 + Titulo
-```
-www.link.com
 
+www.link.com
+Descripción
+```
 Para actualizar la Tabla de contenidos: https://ecotrust-canada.github.io/markdown-toc/
 
-Descripción
+
 
 ## Node.js General
 
