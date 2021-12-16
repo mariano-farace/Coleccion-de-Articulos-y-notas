@@ -1,9 +1,9 @@
 # Coleccion-de-Articulos-y-notas
 
 ## Tabla de Contenidos
-[Go to Real Cool Heading section](## Express)
-- Node.js Genreal
-- Express
+
+- [Node.js Genreal](#place-2)
+- [Express](#express)
 - MySQL/Sequelize
    
    
@@ -24,18 +24,6 @@
 ### Place 1
 
 Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Place 2
