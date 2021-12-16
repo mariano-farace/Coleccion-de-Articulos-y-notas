@@ -7,8 +7,8 @@
 - [Node.js Genreal](#nodejs-general)
 - [Express](#express)
 - [MySQL & Sequelize](mysql-&-sequelize)
-- [Mongo & Mongoose]
-- Git & GitHub
+- [Mongo & Mongoose](mongo-&-mongoose)
+- [Git & GitHub](git-&-gitHub)
 - JavaScript
    - Sub item 1
    - Sub item 2
@@ -20,3 +20,9 @@
 ## Node.js General
 
 ## Express
+
+## MySQL & Sequelize
+
+## Mongo & Mongoose
+
+## Git & GitHub
