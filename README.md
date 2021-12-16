@@ -31,7 +31,14 @@
 ## Proposito
 
 ## Instrucciones para añadir una nota
+Usar el siguiente template:
 
+```diff
++ Titulo
+```
+www.link.com
+
+Descripción
 
 ## Node.js General
 
