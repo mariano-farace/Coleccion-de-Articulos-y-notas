@@ -2,9 +2,13 @@
 
 ## Tabla de Contenidos
 
-- Item 1
-- Item 2
-- Item 3
+- Node.js Genreal
+- Express
+- MySQL/Sequelize
+   
+   
+- Mongo/Mongoose
+- Git
+- JavaScript
    - Sub item 1
    - Sub item 2
-- Item 4
