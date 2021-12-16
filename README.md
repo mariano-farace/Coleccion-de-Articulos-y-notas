@@ -28,10 +28,12 @@ Usar el siguiente template:
 
 ```diff
 + Titulo
+Descripción (si es necesario)
 
-https://jasonwatmore.com/post/2020/09/17/sequelize-mysql-create-database-if-it-doesnt-exist
-Descripción
 ```
+https://jasonwatmore.com/post/2020/09/17/sequelize-mysql-create-database-if-it-doesnt-exist
+
+***
 Para actualizar la Tabla de contenidos: https://ecotrust-canada.github.io/markdown-toc/
 
 
