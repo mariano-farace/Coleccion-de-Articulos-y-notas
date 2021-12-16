@@ -19,7 +19,7 @@
       - [Nivel 3](#nivel-3)
 
 
-
+<hr style="border:2px solid gray"> </hr>
 
 ## Proposito
 
