@@ -2,7 +2,7 @@
 
 ## Tabla de Contenidos
 
-- [Node.js Genreal](#place-2)
+- [Node.js Genreal](#nodejs-general)
 - [Express](#express)
 - MySQL/Sequelize
    
