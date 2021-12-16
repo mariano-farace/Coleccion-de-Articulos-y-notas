@@ -8,7 +8,7 @@
    
    
 - Mongo/Mongoose
-- Git
+- Git / GitHub
 - JavaScript
    - Sub item 1
    - Sub item 2
