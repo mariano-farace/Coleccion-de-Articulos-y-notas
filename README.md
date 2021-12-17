@@ -35,11 +35,11 @@
 ## Instrucciones para añadir una nota
 Usar el siguiente template:
 
-```
-**Titulo**
+
+==**Titulo**==
 Descripción (si es necesario)
 
-```
+
 https://somelink.com
 
 ***
