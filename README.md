@@ -1,9 +1,5 @@
 
 
-# Color Test Document
-
-## Second Heading
-
 # Coleccion-de-Articulos-y-notas
 
 
