@@ -36,11 +36,11 @@
 Usar el siguiente template:
 
 
-| Titulo  |
+| ==Titulo==  |
 |:-:|
 | Descripción (si es necesaria)  |
 | https://somelink.com  |
-====
+
 
 
 
