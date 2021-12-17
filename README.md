@@ -36,7 +36,7 @@
 Usar el siguiente template:
 
 
-==**Titulo**==
+==Titulo==
 Descripción (si es necesario)
 
 
