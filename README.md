@@ -36,17 +36,13 @@
 Usar el siguiente template:
 
 
-| ==Titulo==  |
+| **Titulo**  |
 |:-:|
 | Descripción (si es necesaria)  |
 | https://somelink.com  |
 
 
 
-
-
-
-***
 Para actualizar la Tabla de contenidos: https://ecotrust-canada.github.io/markdown-toc/
 
 
