@@ -64,6 +64,10 @@ Para actualizar la Tabla de contenidos: https://ecotrust-canada.github.io/markdo
 
 
 ## VS-Code
+| **Git Graph**  |
+|:-:|
+| https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph |
+| View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!  |
 
 ## Miscelaneos
 ### Postman
