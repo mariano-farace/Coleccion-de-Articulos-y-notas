@@ -30,8 +30,9 @@ Usar el siguiente template:
 
 | **Titulo**  |
 |:-:|
-| Descripción (si es necesaria)  |
 | https://somelink.com  |
+| Descripción (si es necesaria)  |
+
 
 
 
@@ -53,6 +54,10 @@ Para actualizar la Tabla de contenidos: https://ecotrust-canada.github.io/markdo
 ## Mongo y Mongoose
 
 ## Git y GitHub
+| **Simulador git**  |
+|:-:|
+|https://git-school.github.io/visualizing-git/  |
+| Descripción (si es necesaria)  |
 
 ## VS-Code
 
