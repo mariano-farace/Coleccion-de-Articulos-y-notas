@@ -40,6 +40,11 @@ Para actualizar la Tabla de contenidos: https://ecotrust-canada.github.io/markdo
 
 
 ## Node.js General
+| **Understanding the npm dependency model
+**  |
+|:-:|
+
+|https://lexi-lambda.github.io/blog/2016/08/24/understanding-the-npm-dependency-model/ |
 
 ## Express
 
