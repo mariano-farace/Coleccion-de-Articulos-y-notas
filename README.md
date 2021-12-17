@@ -30,7 +30,7 @@ Usar el siguiente template:
 
 | **Titulo**  |
 |:-:|
-| https://somelink.com  |
+| link |
 | Descripción (si es necesaria)  |
 
 
@@ -48,6 +48,10 @@ Para actualizar la Tabla de contenidos: https://ecotrust-canada.github.io/markdo
 ## Express
 
 ## JavaScript
+| **Retos de javaScript**  |
+|:-:|
+| https://adventofcode.com/  |
+
 
 ## MySQL y Sequelize
 
