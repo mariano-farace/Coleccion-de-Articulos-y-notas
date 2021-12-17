@@ -57,7 +57,7 @@ Para actualizar la Tabla de contenidos: https://ecotrust-canada.github.io/markdo
 | **Simulador git**  |
 |:-:|
 |https://git-school.github.io/visualizing-git/  |
-| Descripción (si es necesaria)  |
+
 
 ## VS-Code
 
